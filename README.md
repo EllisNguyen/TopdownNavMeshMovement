@@ -1,4 +1,4 @@
-# TopdownNavMeshMovement
+# Unity Topdown Movement
 Unity topdown movement for 3D and 2D character.
 
 Current movement type:
